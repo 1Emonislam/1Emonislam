@@ -4,4 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Emonislam)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/1Emonislam)  
